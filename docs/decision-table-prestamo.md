@@ -115,8 +115,8 @@ const persona = {
 
 ## Cobertura
 Esta tabla garantiza:
-- ✅ 100% cobertura de líneas
-- ✅ 100% cobertura de ramas (todas las combinaciones de switch/case)
-- ✅ 100% cobertura de funciones
-- ✅ 100% cobertura de sentencias
-- ✅ Cobertura de casos de error
+-  100% cobertura de líneas
+-  100% cobertura de ramas (todas las combinaciones de switch/case)
+- 100% cobertura de funciones
+- 100% cobertura de sentencias
+-  Cobertura de casos de error
