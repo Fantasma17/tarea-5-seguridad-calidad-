@@ -20,13 +20,13 @@ La función `puedeAprobarPrestamo(persona: Persona): boolean` determina si se ap
 | Tiene deudas = true | ✓ | - | ✓ | - | ✓ | - |
 | Tiene deudas = false | - | ✓ | - | ✓ | - | ✓ |
 | **Acciones** | | | | | | |
-| Aprobar préstamo | ❌ | ❌ | ✅ | ✅ | ❌ | ✅ |
+| Aprobar préstamo | x | x | ✓ | ✓ | x | ✓ |
 
 ### Leyenda
 - ✓ = Condición verdadera
 - - = Condición falsa o no relevante
-- ✅ = Acción ejecutada (true)
-- ❌ = Acción no ejecutada (false)
+- ✓ = Acción ejecutada (true)
+- x = Acción no ejecutada (false)
 
 ## Casos de Prueba por Regla
 
@@ -106,12 +106,12 @@ const persona = {
 
 | Ocupación | Tiene Deudas | Resultado | Regla | Test Case |
 |-----------|--------------|-----------|-------|-----------|
-| estudiante | true | false | R1 | ✅ |
-| estudiante | false | false | R2 | ✅ |
-| empleado | true | true | R3 | ✅ |
-| empleado | false | true | R4 | ✅ |
-| retirado | true | false | R5 | ✅ |
-| retirado | false | true | R6 | ✅ |
+| estudiante | true | false | R1 | ✓ |
+| estudiante | false | false | R2 | ✓ |
+| empleado | true | true | R3 | ✓ |
+| empleado | false | true | R4 | ✓ |
+| retirado | true | false | R5 | ✓ |
+| retirado | false | true | R6 | ✓|
 
 ## Cobertura
 Esta tabla garantiza:
