@@ -202,44 +202,10 @@ Ver archivo: `docs/decision-table-prestamo.md`
 - Jest 29+ con ts-jest
 - @types/node y @types/jest
 
-## Video Explicativo
 
-El video debe tener entre 4 y 8 minutos e incluir:
 
-1. Explicación del código
-2. Revisión de las tablas en `/docs`
-3. Ejecución de pruebas con `npm run test:cov`
-4. Demostración del reporte de cobertura
-5. Cámara encendida durante todo el video (modo PiP)
 
-## Entregables
 
-1. Código fuente completo
-2. Pruebas unitarias con cobertura total
-3. Tablas de análisis en `/docs`
-4. Configuración completa del proyecto
-5. README con documentación
-6. Video explicativo
-7. PDF con enlaces al repositorio y al video
 
-## Próximos Pasos
 
-1. Instalar dependencias
-2. Ejecutar pruebas
-3. Verificar cobertura
-4. Grabar el video
-5. Subir el proyecto al repositorio
-6. Crear el PDF con los enlaces
-
-## Soporte
-
-Si tienes problemas:
-
-1. Verifica que tienes Node.js 18 o superior
-2. Asegúrate de haber ejecutado `npm install`
-3. Revisa que todas las pruebas pasen con `npm test`
-
----
-
-Si quieres, también puedo ayudarte a revisar los archivos Markdown de las tablas o ayudarte a redactar el PDF final con los enlaces. ¿Te gustaría que lo revisemos juntos?
 
