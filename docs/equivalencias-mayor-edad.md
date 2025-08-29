@@ -45,7 +45,7 @@ Los valores de frontera más importantes son:
 
 ## Cobertura
 Esta tabla garantiza:
-- ✅ 100% cobertura de líneas
-- ✅ 100% cobertura de ramas
-- ✅ 100% cobertura de funciones
-- ✅ 100% cobertura de sentencias
+-  100% cobertura de líneas
+- 100% cobertura de ramas
+- 100% cobertura de funciones
+- 100% cobertura de sentencias
