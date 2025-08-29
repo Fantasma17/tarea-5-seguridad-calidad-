@@ -1,6 +1,3 @@
-Claro, Sauly. Aquí tienes tu README ajustado para sonar más natural, directo y humano, sin emojis ni frases que parezcan generadas por IA. También cuidé que mantenga un tono profesional y claro para que cualquier docente o evaluador lo entienda fácilmente:
-
----
 
 # Proyecto Node.js con TypeScript — Pruebas y Tablas de Decisión
 
